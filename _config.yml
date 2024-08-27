@@ -12,7 +12,7 @@ theme_color: '#ef2e31'
 fixed_navbar: top
 
 collections:
-  products: 
+  projets: 
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
