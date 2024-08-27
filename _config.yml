@@ -11,9 +11,13 @@ lang: fr
 theme_color: '#ef2e31'
 fixed_navbar: top
 
+plugins:
+  - jekyll-remote-include
+
 collections:
   projets: 
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+
