@@ -38,7 +38,12 @@ _Stage – intitulé du poste_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
-## Compétences
+`20XX` **Association, description de l’asso., taille**
+
+_Intitulé du poste dans une équipe de XX membres_
+* Description des missions (outils utilisés, réalisations, chiffres clés)
+
+## Autres compétences
 
 Langues
 * LV1 à préciser : niveau à préciser (résultat d’examen)
