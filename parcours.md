@@ -43,7 +43,7 @@ _Stage – intitulé du poste_
 _Intitulé du poste dans une équipe de XX membres_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
-## Autres compétences
+## Compétences
 
 Langues
 * LV1 à préciser : niveau à préciser (résultat d’examen)
